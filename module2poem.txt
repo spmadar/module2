@@ -1,0 +1,57 @@
+<!DOCTYPE html>  
+<html lang="en">
+  
+<head>  
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- This meta element ensures the webpage is responsive for different devices -->
+<meta name="author" content="Sophia Madar"> 
+<meta name="description" content="'Wild Geese' is a poem by Mary Oliver, written and published in 1986">
+<meta name="keywords" content="Mary Oliver, poem, American poetry">
+<title>Oliver: Wild Geese</title> 
+
+<style>
+  /* Styling for fonts */
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rockwell', serif;
+  }
+</style>
+
+</head> 
+ 
+<body>
+
+<h1>Wild Geese</h1> 
+<h2>Mary Oliver (1935-2019)</h2>
+<p><em>Note: Mary Oliver's poem &quot;Wild Geese&quot; was first published in 1986 as part of her poetry collection Dream Work. <br> 
+<!-- This collection is widely celebrated and includes many of her most beloved works, with Wild Geese being one of her most iconic poems. -->
+</em></p>
+
+<main>
+<p>
+You do not have to be good.<br>
+You do not have to walk on your knees<br>
+for a hundred miles through the desert repenting.<br>
+You only have to let the soft animal of your body<br>
+love what it loves.<br>
+Tell me about despair, yours, and I will tell you mine.<br>
+Meanwhile the world goes on.<br>
+Meanwhile the sun and the clear pebbles of the rain<br>
+are moving across the landscapes,<br>
+over the prairies and the deep trees,<br>
+the mountains and the rivers.<br>
+Meanwhile the wild geese, high in the clean blue air,<br>
+are heading home again.<br>
+Whoever you are, no matter how lonely,<br>
+the world offers itself to your imagination,<br>
+calls to you like the wild geese, harsh and exciting -<br>
+over and over announcing your place<br>
+in the family of things.<br>
+</p>
+<!-- Mary Oliver often wrote about the natural world, drawing connections between nature and the human spirit, as seen in this poem. -->
+</main>
+
+</body>  
+</html>
